@@ -14,6 +14,7 @@ var siml = require('gulp-siml');
 gulp.task('templates', function() {
 
   var options = {
+    extension: '.html', // rename the file's extension ('.html' is the default)
     pretty: true,
     curly: false,
     indent: '  '

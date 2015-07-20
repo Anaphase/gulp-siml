@@ -1,6 +1,6 @@
 {
   "name": "gulp-siml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Gulp plugin that compiles SIML files into HTML",
   "main": "gulp-siml.js",
   "scripts": {
